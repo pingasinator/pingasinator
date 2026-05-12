@@ -26,7 +26,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
                 </td>
                 <td valign="top">
                     <img src="https://img.shields.io/badge/c-%25?style=for-the-badge&logo=c&logoColor=white&color=%2300599C" alt="C" />
-                    <img src="https://img.shields.io/badge/c%2B%2B-%25?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C
+                    <img src="https://img.shields.io/badge/c++-%25?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C
                     " alt="C++" />
                     <img src="https://img.shields.io/badge/c%23-25?style=for-the-badge&logo=csharp&logoColor=white&color=%2300599C" alt="C#" />
                     <img src="https://img.shields.io/badge/css-%25?style=for-the-badge&logo=css&logoColor=white&color=%23663399" alt="CSS" />
@@ -91,7 +91,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
                     <img src="https://img.shields.io/badge/figma-%25?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E" alt="figma" />
                     <img src="https://img.shields.io/badge/looping-%25?style=for-the-badge&logo=looping&logoColor=blue&color=white" alt="looping" />
                     <img src="https://img.shields.io/badge/bgb-%25?style=for-the-badge&logo=bgb&logoColor=blue&color=green" alt="bgb" />
-                    <img src="https://img.shields.io/badge/github-%25?style=for-the-badge&logo=github&logoColor=white&color=black" alt="github" />
+                    <img src="https://img.shields.io/badge/github(obviously)-%25?style=for-the-badge&logo=github&logoColor=white&color=black" alt="github" />
                 </td>
             </tr>
         </tbody>
