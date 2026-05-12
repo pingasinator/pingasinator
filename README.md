@@ -1,17 +1,31 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Helloworld(print);)](https://git.io/typing-svg)
 
-<div>
-<img src="https://imgur.com/gallery/fox-teehyaaa-terminal-montage-9g4s3C1"></div>
-
-I'm a fullstack dev and a nobody
+I'm a fullstack dev and a nobody (I use arch btw)
 
 Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
 <details open>
-    <summary test><h2>Mes projets</h2></summary>
-    
-    e
-    
+    <summary test><h2>My projects</h2></summary>
+    <div align="center" >
+        <div>
+        <h3>test
+        </div>
+        <div>
+        <h3>test
+        </div> 
+    </div>
+</details>
+
+<details open>
+    <summary test><h2>My Tools</h2></summary>
+    <table>
+        <tbody>
+            <tr><th>Languages</th><td></td></tr>
+            <tr><th>Softwares</th><td></td></tr>
+            <tr><th>Frameworks</th><td></td></tr>
+            <tr><th>Databases</th><td></td></tr>
+        </tbody>
+    </table>
 </details>
 
 
