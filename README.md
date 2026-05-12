@@ -26,8 +26,6 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
                 </td>
                 <td valign="top">
                     <img src="https://img.shields.io/badge/c-%25?style=for-the-badge&logo=c&logoColor=white&color=%2300599C" alt="C" />
-                    <img src="https://img.shields.io/badge/c++-%25?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=%2300599C
-                    " alt="C++" />
                     <img src="https://img.shields.io/badge/c%23-25?style=for-the-badge&logo=csharp&logoColor=white&color=%2300599C" alt="C#" />
                     <img src="https://img.shields.io/badge/css-%25?style=for-the-badge&logo=css&logoColor=white&color=%23663399" alt="CSS" />
                     <img src="https://img.shields.io/badge/html5-%25?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26" alt="HTML5" />
@@ -59,6 +57,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
                 <img src="https://img.shields.io/badge/node.js-%25?style=for-the-badge&logo=node.js&logoColor=white&color=%6DA55F" alt="node.js" />
                 <img src="https://img.shields.io/badge/express.js-%25?style=for-the-badge&logo=express&logoColor=%2361DAFB&color=%23404d59" alt="express.js" />
                 <img src="https://img.shields.io/badge/nodemon-%25?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD&color=%23323330" alt="nodemon" />
+                <img src="https://img.shields.io/badge/openmairie-%25?style=for-the-badge&logo=openmairie&logoColor=%BBDEAD&color=lightgrey" alt="openmairie" />
                 <img src="https://img.shields.io/badge/gbdk-%25?style=for-the-badge&logo=gbdk&logoColor=white&color=green" alt="gbdk" />
                 </td>
             </tr>
