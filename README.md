@@ -1,23 +1,54 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&separator=%3C&lines=Helloworld(print);)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" align="center" >
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=Helloworld(print);" alt="Typing SVG" />
+</a>
 
 I'm a fullstack dev and a nobody (I use arch btw)
 
 Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
 <details open>
-    <summary test><h2>My projects</h2></summary>
-    <div align="center" >
-        <div>
-        <h3>test
-        </div>
-        <div>
-        <h3>test
-        </div> 
+    <summary><h2>My projects</h2></summary>
+    <div align="center" class="card-holder">
+        <a href="https://github.com/pingasinator/Mario-Wonderland" class="card">
+            <h3>Mario wonderland</h3>
+            <p>a personnal project i made to train myself by trying to make my own game engine on game boy</p>
+            <div>Tools</div>
+            <div class="card-tools">
+                <img src="https://img.shields.io/badge/c-%25?style=for-the-badge&logo=c&logoColor=white&color=%2300599C" alt="C" />
+                <img src="https://img.shields.io/badge/bgb-%25?style=for-the-badge&logo=bgb&logoColor=blue&color=green" alt="bgb" />
+                <img src="https://img.shields.io/badge/gbdk-%25?style=for-the-badge&logo=gbdk&logoColor=white&color=green" alt="gbdk" />
+            </div>
+        </a>
+        <a href="https://github.com/pingasinator/Openrefuge" class="card">
+            <h3> Open refuge</h3>
+            <p>open refuge is a project i made at work</p>
+            <div>Tools</div>
+            <div class="card-tools">
+                <img src="https://img.shields.io/badge/php-%25?style=for-the-badge&logo=php&color=%23777BB4&logoColor=white" alt="PHP" />
+                <img src="https://img.shields.io/badge/css-%25?style=for-the-badge&logo=css&logoColor=white&color=%23663399" alt="CSS" />
+                <img src="https://img.shields.io/badge/javascript-25?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23323330" alt="JavaScript" />
+                <img src="https://img.shields.io/badge/postgresql-%25?style=for-the-badge&logo=postgresql&logoColor=white&color=%23316192" alt="postgresql" />
+            </div>
+        </a > 
+        <a href="https://github.com/pingasinator/pokedexweb" class="card">
+            <h3>pokedex web</h3>
+            <p>a shcool project</p>
+            <div>Tools</div>
+            <div class="card-tools">
+                <img src="https://img.shields.io/badge/javascript-25?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23323330" alt="JavaScript" />
+            </div>
+        </a>
+        <a href="" class="card">
+            <h3>test</h3>
+            <p></p>
+            <div>Tools</div>
+            <div class="card-tools">
+            </div>
+        </a >
     </div>
 </details>
-
 <details open>
-    <summary test><h2>My Tools</h2></summary>
+    <summary><h2>My Tools 🧰</h2></summary>
     <table>
         <tbody>
             <tr> 
@@ -103,7 +134,50 @@ Here's my inspirations for this presentation :
 - [dhlananhh's github](https://github.com/dhlananhh/dhlananhh/blob/main/README.md)
 
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+<style>
+
+.card{
+    display: flex;
+    flex-direction: column;
+    border: solid 1px;
+    border-radius: 10px;
+    width: 45%;
+    padding: 10px;
+    gap: 1px;
+    align-content: center;
+    color: #9cf0c3;
+    background-color: #1f222e;
+}
+
+.card h3{
+    color: #f8576f
+}
+
+.card p{
+    min-height: 75px;
+}
+
+/*.card * {
+    border: solid 1px;
+}
+*/
+.card-holder{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 5px
+
+}
+
+.card-tools{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1px;
+}
+</style>
+
 <!--
 **pingasinator/pingasinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
