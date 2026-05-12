@@ -1,7 +1,4 @@
-
-<a href="https://git.io/typing-svg" align="center" >
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=Helloworld(print);" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?separator=%3C&lines=Helloword(print);&size=35&center=true&vCenter=true&width=1000)](https://git.io/typing-svg)
 
 I'm a fullstack dev and a nobody (I use arch btw)
 
