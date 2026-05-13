@@ -6,6 +6,7 @@
 
 Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
 
+---
 <details open>
     <summary>
         <h2>My projects</h2>
@@ -32,6 +33,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
     </p>
 </details>
 
+---
 <details open>
     <summary>
         <h2>My summary card</h2>
@@ -39,28 +41,29 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
     <table width="500">
         <tr>
             <td align="center" colspan="2">
-                <img src="card/profile-details.svg">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pingasinator&theme=2077">
             </td>
         </tr>
         <tr>
             <td>
-                <img src="card/stats.svg">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pingasinator&theme=2077">
             </td>
             <td>
-                <img src="card/most-commit-language.svg">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pingasinator&theme=2077&utcOffset=2">
             </td>
         </tr>
         <tr>
             <td>
-                <img src="card/repos-per-language.svg">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pingasinator&theme=2077">
             </td>
             <td>
-                <img src="card/most-commit-language.svg">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pingasinator&theme=2077">
             </td>
         </tr>
     </table>
 </details>
 
+---
 <details open>
     <summary><h2>My Tools 🧰</h2></summary>
     <table >
