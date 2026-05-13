@@ -36,7 +36,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
 ---
 <details open>
     <summary>
-        <h2>My summary card</h2>
+        <h2>📊 My summary card</h2>
     </summary>
     <table width="500">
         <tr>
@@ -84,7 +84,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
         </tr>
         <tr>
             <td align="center" width="200" valign="top">
-                <h3>📋 Editors</h3>
+                <h3>📝 Editors</h3>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%25?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0078d7&labelColor=darkorchid" alt="visual studio code" />
@@ -97,7 +97,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
         </tr>
         <tr>
             <td align="center" width="200" valign="top">
-                <h3>Frameworks</h3>
+                <h3>📎Frameworks</h3>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/node.js-%25?style=for-the-badge&logo=node.js&logoColor=white&color=%6DA55F" alt="node.js" />
@@ -109,7 +109,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
         </tr>
         <tr>
             <td align="center" width="200" valign="top">
-                <h3>Databases</h3>
+                <h3>💾 Databases</h3>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/mysql-%25?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1" alt="mysql" />
@@ -118,7 +118,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
         </tr>
         <tr>
             <td align="center" width="200" valign="top">
-                <h3>OS</h3>
+                <h3>💻 OS</h3>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Windows-%25?style=for-the-badge&logo=windows&logoColor=white&color=%230078D6" alt="windows" />
@@ -129,7 +129,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
         </tr>
         <tr>
             <td align="center" width="200" valign="top">
-                <h3>others</h3>
+                <h3>Others</h3>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/postman-%25?style=for-the-badge&logo=postman&logoColor=white&color=%23FF6C37" alt="postman" />
@@ -143,7 +143,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
     </table>
 </details>
 
-## Inspirations and tools used for this :3
+## Inspirations and tools i used for this :3
 ---
 
 ### inspirations
