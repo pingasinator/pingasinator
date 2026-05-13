@@ -11,7 +11,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
     <summary>
         <h2>My projects</h2>
     </summary>
-    <p>
+    <p align="center">
         <a href="https://github.com/Pingasinator/Openrefuge">
             <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pingasinator&repo=Openrefuge&theme=radical&bg_color=141321&title_color=ff0055&hide_border=true&icon_color=F8D866&show_icons=true" alt="Openrefuge">
         </a>
@@ -54,7 +54,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
         </tr>
         <tr>
             <td>
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pingasinator&theme=2077">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pingasinator&theme=2077&exclude=Game%20Maker%20Language">
             </td>
             <td>
                 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pingasinator&theme=2077">
@@ -84,7 +84,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
         </tr>
         <tr>
             <td align="center" width="200" valign="top">
-                <h3>📋 Softwares</h3>
+                <h3>📋 Editors</h3>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%25?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0078d7&labelColor=darkorchid" alt="visual studio code" />
@@ -92,8 +92,7 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
                 <img src="https://img.shields.io/badge/phpstorm-%25?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="phpstorm" />
                 <img src="https://img.shields.io/badge/unity-%25?style=for-the-badge&logo=unity&logoColor=white&color=black" alt="unity" />
                 <img src="https://img.shields.io/badge/webstorm-%25?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="webstorm" />
-                <img src="https://img.shields.io/badge/windev-%25?style=for-the-badge&logo=windev&logoColor=white&color=black" alt="windev" />
-                <img src="https://img.shields.io/badge/git-%25?style=for-the-badge&logo=git&logoColor=white&color=%23F05033" alt="git" />
+                <img src="https://img.shields.io/badge/windev%20suite-%25?style=for-the-badge&logo=windev-suite&logoColor=white&color=black" alt="windev suite" />
             </td>
         </tr>
         <tr>
@@ -137,28 +136,24 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
                 <img src="https://img.shields.io/badge/figma-%25?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E" alt="figma" />
                 <img src="https://img.shields.io/badge/looping-%25?style=for-the-badge&logo=looping&logoColor=blue&color=white" alt="looping" />
                 <img src="https://img.shields.io/badge/bgb-%25?style=for-the-badge&logo=bgb&logoColor=blue&color=green" alt="bgb" />
+                <img src="https://img.shields.io/badge/git-%25?style=for-the-badge&logo=git&logoColor=white&color=%23F05033" alt="git" />
                 <img src="https://img.shields.io/badge/github(obviously)-%25?style=for-the-badge&logo=github&logoColor=white&color=black" alt="github" />
             </td>
         </tr>
     </table>
 </details>
 
-Here's my inspirations for this presentation : 
+## Inspirations and tools used for this :3
+---
 
+### inspirations
 - [my best friend's github](https://github.com/EnzoGuillouche)
 - [dhlananhh's github](https://github.com/dhlananhh/dhlananhh/blob/main/README.md)
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-<!--
-**pingasinator/pingasinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [markdown-badges](https://github.com/Ileriayo/markdown-badges)
