@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?separator=%3C&lines=Helloword(print);&size=35&center=true&vCenter=true&width=1000)](https://git.io/typing-svg)
 
-I'm a fullstack dev and a nobody (I use arch btw)
+![Hayaaa](Hayaaa.gif)
+
+<h2>I'm a fullstack dev and a nobody (I use arch btw)</h2>
 
 Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
+
 <details open>
     <summary>
         <h2>My projects</h2>
