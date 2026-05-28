@@ -6,7 +6,6 @@
 
 Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
 
----
 <details open>
     <summary>
         <h2>My projects</h2>
@@ -33,7 +32,6 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
     </p>
 </details>
 
----
 <details open>
     <summary>
         <h2>📊 My summary card</h2>
@@ -63,7 +61,6 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
     </table>
 </details>
 
----
 <details open>
     <summary><h2>My Tools 🧰</h2></summary>
     <table >
@@ -144,7 +141,6 @@ Here's my  <a href="https://portfolio.yajil.dev-campus.fr/">portfolio :3</a>
 </details>
 
 ## Inspirations and tools i used for this :3
----
 
 ### inspirations
 - [my best friend's github](https://github.com/EnzoGuillouche)
